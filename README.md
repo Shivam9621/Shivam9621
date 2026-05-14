@@ -96,7 +96,7 @@ Full-stack MERN restaurant platform with menu browsing, reservation management, 
 
 **Currently open to AI/ML and SDE internship opportunities**
 
-[shivamxz18@gmail.com](mailto:shivamxz18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shivam-jaiswal-116a06257/)
+[shivamxz18@gmail.com](mailto:shivamxz18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shivam-jaiswal-116a06257/) · [Portfolio](https://shivam9621.github.io/)
 
 </div>
 -->
